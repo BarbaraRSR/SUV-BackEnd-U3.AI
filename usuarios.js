@@ -1,0 +1,1 @@
+{"1":{"Nombre":"B\u00e1rbara","Mail":"user@mail.com","Cumplea\u00f1os":"26\/abril","Semana":"Viernes"},"2":{"Nombre":"Jos\u00e9 Francisco","Mail":"jfjafet@gmail.com","Cumplea\u00f1os":" ","Semana":" "},"3":{"Nombre":null,"Mail":null,"Cumplea\u00f1os":null,"Semana":null}}
